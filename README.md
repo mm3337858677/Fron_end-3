@@ -4,7 +4,7 @@
 
 
 #### 数据库数据展示
-![mysql](/img/msysql.png)
+![mysql](/img/mysql.png)
 #### 前端页面展示
 ![front-end](/img/front-end.png)
 
